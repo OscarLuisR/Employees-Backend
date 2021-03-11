@@ -1,0 +1,11 @@
+VIDEO: (BackEnd 00:00:00: FrontEnd 01:03:00) 
+https://www.youtube.com/watch?v=qf8-JzU-4IE&list=PLUnON28sVBzmAErneY-b6PSgR7WQLqDNa&index=1&ab_channel=FaztCode
+
+FRONTEND:
+C:\DESARROLLO\Fuentes\Web\AngularJs\employees-api-node
+
+BACKEND (API REST):
+C:\DESARROLLO\Fuentes\Web\NodeJs\API REST\MONGO\Express Mongoose Local (EmployeesDB) JWT y Roles Joi
+
+FUENTES:
+https://github.com/FaztWeb/company-products-api
